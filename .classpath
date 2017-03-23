@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Harley/Documents/1) Computer Science/CS2/A5 Mars Rover/LA5_GUI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harley/Documents/1) Computer Science/CS2/A5 Mars Rover/LA5_TerrainScanner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harley/git/LA5/A5 Mars Rover/LA5_GUI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harley/git/LA5/A5 Mars Rover/LA5_TerrainScanner.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
