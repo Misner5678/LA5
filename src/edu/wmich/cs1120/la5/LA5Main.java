@@ -5,6 +5,5 @@ public class LA5Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MainWindow.startGUI();
-		System.out.println("What up?");
 	}
 }
